@@ -1,4 +1,4 @@
-CFLAGS=-Wall -g
+CFLAGS=-std=c99 -Wall -ledit -g
 
 all: clean prompt
 
